@@ -1,0 +1,1 @@
+## After ingestion, data is transformed (e.g., converting categorical features to numerical, handling encoding)
